@@ -5,6 +5,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swiftalker&theme=react">
 
-- 🌱 Just focus with Erlang/Elixir, Go, PHP, JavaScript, Julia
+- 🌱 Just focus with Erlang/Elixir, Go, PHP, JavaScript, Python, Julia
 - 📫 How to reach me: **naravaya04@gmail.com**
 
