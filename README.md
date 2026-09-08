@@ -2,11 +2,7 @@
 
 I'm a software engineer with a strong interest in backend systems, distributed computing, and mathematical programming.
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=swiftalker&show_icons=true&theme=react&hide_border=true" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swiftalker&theme=react&hide_border=true&layout=compact" height="170" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=swiftalker&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
