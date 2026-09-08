@@ -2,9 +2,13 @@
 
 I'm a software engineer with a strong interest in backend systems, distributed computing, and mathematical programming.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=swiftalker&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=swiftalker&theme=react&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swiftalker&show_icons=true&theme=react&hide_border=true)](https://github.com/swiftalker)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swiftalker&layout=compact&theme=react&hide_border=true)](https://github.com/swiftalker)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=swiftalker&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About Me
 
@@ -22,6 +26,10 @@ I'm a software engineer with a strong interest in backend systems, distributed c
 **Programming & Computing**
 
 `Python` · `Julia` · `JavaScript`
+
+## GitHub Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swiftalker&theme=react-dark&hide_border=true)](https://github.com/swiftalker)
 
 ## Contact
 
