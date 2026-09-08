@@ -5,14 +5,6 @@ distributed computing, and mathematical programming.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=swiftalker&theme=react&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swiftalker&theme=github_dark)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swiftalker&theme=github_dark)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swiftalker&theme=github_dark)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swiftalker&theme=github-compact&hide_border=true)](https://github.com/swiftalker)
-
 ## About Me
 
 * Focused on backend development, distributed systems, and mathematical computing.
@@ -24,11 +16,13 @@ distributed computing, and mathematical programming.
 
 [![My Skills](https://skillicons.dev/icons?i=elixir,erlang,go,php,js,python,julia,docker,linux,git)](https://skillicons.dev)
 
+## GitHub Activity
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/swiftalker/swiftalker/output/github-snake.svg)
+
 ## Contact
 
 * Email: **naravaya04@gmail.com**
-
-![Profile Views](https://komarev.com/ghpvc/?username=swiftalker&style=flat-square)
 
 ---
 
