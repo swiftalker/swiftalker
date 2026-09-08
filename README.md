@@ -5,6 +5,8 @@ distributed computing, and mathematical programming.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=swiftalker&theme=react&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swiftalker&theme=github_dark)
+
 ## About Me
 
 * Focused on backend development, distributed systems, and mathematical computing.
