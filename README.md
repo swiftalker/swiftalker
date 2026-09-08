@@ -14,7 +14,10 @@ distributed computing, and mathematical programming.
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=elixir,erlang,go,php,js,python,julia,docker,linux,git)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=elixir,go,php,js,python,julia,docker,linux,git" />
+  <img src="https://cdn.simpleicons.org/erlang/A90533" height="48" alt="Erlang" />
+</p>
 
 ## GitHub Activity
 
