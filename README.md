@@ -1,14 +1,17 @@
 # Hi there, I'm Muhammad Adnan 👋
 
-I'm a software engineer with a strong interest in backend systems, distributed computing, and mathematical programming.
+I'm a software engineer with a strong interest in backend systems,
+distributed computing, and mathematical programming.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=swiftalker&theme=react&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swiftalker&show_icons=true&theme=react&hide_border=true)](https://github.com/swiftalker)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swiftalker&theme=github_dark)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swiftalker&layout=compact&theme=react&hide_border=true)](https://github.com/swiftalker)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swiftalker&theme=github_dark)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=swiftalker&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swiftalker&theme=github_dark)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swiftalker&theme=github-compact&hide_border=true)](https://github.com/swiftalker)
 
 ## About Me
 
@@ -19,21 +22,13 @@ I'm a software engineer with a strong interest in backend systems, distributed c
 
 ## Tech Stack
 
-**Backend & Systems**
-
-`Erlang` · `Elixir` · `Go` · `PHP`
-
-**Programming & Computing**
-
-`Python` · `Julia` · `JavaScript`
-
-## GitHub Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swiftalker&theme=react-dark&hide_border=true)](https://github.com/swiftalker)
+[![My Skills](https://skillicons.dev/icons?i=elixir,erlang,go,php,js,python,julia,docker,linux,git)](https://skillicons.dev)
 
 ## Contact
 
-* Email: **[naravaya04@gmail.com](mailto:naravaya04@gmail.com)**
+* Email: **naravaya04@gmail.com**
+
+![Profile Views](https://komarev.com/ghpvc/?username=swiftalker&style=flat-square)
 
 ---
 
